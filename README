@@ -1,0 +1,3 @@
+This is going to be a check_mk plugin to check HP MSA storage systems via snmp.
+
+Developed by Frank Mueller, fm@sysinit.de
