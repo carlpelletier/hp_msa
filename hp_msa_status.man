@@ -1,0 +1,13 @@
+title: Check HP MSA Storage Systems 
+agents: snmp
+author: Frank Müller <fm@sysinit.de>
+license: GPL
+distribution: public 
+description:
+ Queries HP MSA Storage systems via snmp and displays overall system status.
+
+perfdata:
+ Not yet implemented
+
+inventory:
+ One check per system.
