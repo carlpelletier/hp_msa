@@ -7,7 +7,7 @@ description:
  Queries HP MSA Storage systems via snmp and displays overall system status.
 
 perfdata:
- Not yet implemented
+ Not yet implemented.
 
 inventory:
  One check per system.
