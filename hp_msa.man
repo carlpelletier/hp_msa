@@ -1,0 +1,11 @@
+title: Check HP MSA Storage Systems overall health
+agents: snmp
+author: Frank Müller <fm@sysinit.de>
+license: GPL
+distribution: public 
+description:
+ This check monitors the overall health status of HP MSA Storage Systems.
+ The check uses the state information reported by SNMP.
+
+inventory:
+ One check per system is created automatically.
