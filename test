@@ -1,0 +1,23 @@
+
+```
+set nocompatible
+set autoindent
+set ignorecase
+set modeline
+set nobk
+set shiftwidth=3
+set hlsearch
+set showmatch
+set smartcase
+set smarttab
+set splitbelow
+set nowrap
+set bs=2
+set cmdheight=3
+set nobackup
+
+au FileType py set tabstop=4
+au FileType py set shiftwidth=4
+au FileType py  set expandtab
+syntax on
+```
